@@ -20,8 +20,6 @@ FlixHub is a streaming platform that allows users to browse, search, and watch m
 - **Authentication**: Firebase/Auth0
 - **Video Streaming**: AWS S3 / Cloudflare Stream
 - **API**: TMDB API (for movie details)
-   npm start
-   ```
 
 ## Contributing
 Feel free to contribute by creating pull requests. Ensure your code follows best practices and is well-documented.

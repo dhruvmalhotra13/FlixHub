@@ -20,24 +20,6 @@ FlixHub is a streaming platform that allows users to browse, search, and watch m
 - **Authentication**: Firebase/Auth0
 - **Video Streaming**: AWS S3 / Cloudflare Stream
 - **API**: TMDB API (for movie details)
-
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/flixhub.git
-   cd flixhub
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up environment variables in a `.env` file:
-   ```plaintext
-   REACT_APP_API_KEY=your_api_key
-   REACT_APP_AUTH_SECRET=your_auth_secret
-   ```
-4. Start the development server:
-   ```bash
    npm start
    ```
 
